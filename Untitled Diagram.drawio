@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T19:03:06.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="3NAVMmNzrQsNxATqPF5r" version="18.0.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-11T19:33:22.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="g7guLfbR1cz5yX1VQFJG" version="18.0.2" type="github" pages="7">
   <diagram id="-E3DHL0iMiCAvRFL6kt2" name="Home page">
     <mxGraphModel dx="870" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ctbqODOHqsKRtOPAJocu" name="Home 2.0">
-    <mxGraphModel dx="5180" dy="2324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3875" dy="1453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -240,13 +240,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ijmsWEHlUIuAwE15p_Iw" name="Product 2.0">
-    <mxGraphModel dx="3750" dy="1937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2590" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9KrBpNonQlpX8hZpLhAd-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=20;fontColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-470" width="1930" height="1710" as="geometry" />
-        </mxCell>
+        <UserObject label="" link="data:page/id,sZifIpH5QzwbBrtfKMlP" id="9KrBpNonQlpX8hZpLhAd-1">
+          <mxCell style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=20;fontColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
+            <mxGeometry x="-470" width="1930" height="1710" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="9KrBpNonQlpX8hZpLhAd-2" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=73;fontColor=none;fillColor=#B3B3B3;direction=south;" parent="9KrBpNonQlpX8hZpLhAd-1" vertex="1">
           <mxGeometry y="240" width="410" height="1470" as="geometry" />
         </mxCell>
@@ -261,17 +263,17 @@
         </mxCell>
         <UserObject label="" link="data:page/id,ijmsWEHlUIuAwE15p_Iw" id="9KrBpNonQlpX8hZpLhAd-8">
           <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/spring-30/30/Flower-1-128.png;fontFamily=Helvetica;fontSize=73;fontColor=none;fillColor=#B3B3B3;" parent="9KrBpNonQlpX8hZpLhAd-1" vertex="1">
-            <mxGeometry x="1550" y="182" width="128" height="128" as="geometry" />
+            <mxGeometry x="1300" y="180" width="128" height="128" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="data:page/id,ctbqODOHqsKRtOPAJocu" id="9KrBpNonQlpX8hZpLhAd-9">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.home;fillColor=#2072B8;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=73;fontColor=none;" parent="9KrBpNonQlpX8hZpLhAd-1" vertex="1">
-            <mxGeometry x="1330" y="191" width="130" height="110" as="geometry" />
+            <mxGeometry x="1080" y="189" width="130" height="110" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="data:page/id,bImNMxTVEZtL996Lt0ZB" id="9KrBpNonQlpX8hZpLhAd-10">
           <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fontFamily=Helvetica;fontSize=73;fontColor=none;fillColor=#B3B3B3;" parent="9KrBpNonQlpX8hZpLhAd-1" vertex="1">
-            <mxGeometry x="1770" y="182" width="130" height="130" as="geometry" />
+            <mxGeometry x="1520" y="180" width="130" height="130" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="9KrBpNonQlpX8hZpLhAd-13" value="this shop have been so helpful so much over the years&amp;nbsp;&lt;br&gt;-Magazine" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=30;fontColor=none;" parent="9KrBpNonQlpX8hZpLhAd-1" vertex="1">
@@ -349,17 +351,22 @@
         <mxCell id="9KrBpNonQlpX8hZpLhAd-44" value="Price" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=50;fontColor=#000000;" parent="9KrBpNonQlpX8hZpLhAd-1" vertex="1">
           <mxGeometry x="887.5" y="1540" width="95" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rzl4zlFHcJzFwy0k62AD-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;fontSize=50;fillColor=#B3B3B3;" vertex="1" parent="9KrBpNonQlpX8hZpLhAd-1">
+          <mxGeometry x="1745" y="202.5" width="145" height="96.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="bImNMxTVEZtL996Lt0ZB" name="Contact 2.0">
-    <mxGraphModel dx="4186" dy="2760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5180" dy="3424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tNYDQJ1aMK95oAzdVv1W-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=20;fontColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-860" y="-140" width="1930" height="1630" as="geometry" />
-        </mxCell>
+        <UserObject label="" link="data:page/id,ctbqODOHqsKRtOPAJocu" id="tNYDQJ1aMK95oAzdVv1W-1">
+          <mxCell style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=20;fontColor=none;fillColor=#FFFFFF;" parent="1" vertex="1">
+            <mxGeometry x="-860" y="-140" width="1930" height="1630" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="tNYDQJ1aMK95oAzdVv1W-2" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=73;fontColor=none;fillColor=#B3B3B3;direction=south;" parent="tNYDQJ1aMK95oAzdVv1W-1" vertex="1">
           <mxGeometry y="240" width="410" height="1390" as="geometry" />
         </mxCell>
@@ -374,12 +381,12 @@
         </mxCell>
         <UserObject label="" link="data:page/id,ijmsWEHlUIuAwE15p_Iw" id="tNYDQJ1aMK95oAzdVv1W-8">
           <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/spring-30/30/Flower-1-128.png;fontFamily=Helvetica;fontSize=73;fontColor=none;fillColor=#B3B3B3;" parent="tNYDQJ1aMK95oAzdVv1W-1" vertex="1">
-            <mxGeometry x="1790" y="183" width="128" height="128" as="geometry" />
+            <mxGeometry x="1550" y="183" width="128" height="128" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" link="data:page/id,ctbqODOHqsKRtOPAJocu" id="tNYDQJ1aMK95oAzdVv1W-9">
           <mxCell style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.home;fillColor=#2072B8;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=73;fontColor=none;" parent="tNYDQJ1aMK95oAzdVv1W-1" vertex="1">
-            <mxGeometry x="1560" y="186" width="130" height="122" as="geometry" />
+            <mxGeometry x="1360" y="189" width="130" height="122" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="tNYDQJ1aMK95oAzdVv1W-13" value="this shop have been so helpful so much over the years&amp;nbsp;&lt;br&gt;-Magazine" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=30;fontColor=none;" parent="tNYDQJ1aMK95oAzdVv1W-1" vertex="1">
@@ -433,6 +440,11 @@
         <mxCell id="tNYDQJ1aMK95oAzdVv1W-30" value="Email" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=50;fontColor=#000000;" parent="tNYDQJ1aMK95oAzdVv1W-1" vertex="1">
           <mxGeometry x="935" y="1390" width="60" height="30" as="geometry" />
         </mxCell>
+        <UserObject label="" link="data:page/id,sZifIpH5QzwbBrtfKMlP" id="zGt7uuD-gNCKVQGUXJan-1">
+          <mxCell style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.shopping_cart;fontSize=50;fillColor=#B3B3B3;" vertex="1" parent="tNYDQJ1aMK95oAzdVv1W-1">
+            <mxGeometry x="1730" y="200" width="150" height="108" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
@@ -441,9 +453,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UgSbTgptDc2yuKRyGdcN-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=20;fontColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-960" y="-140" width="1930" height="1630" as="geometry" />
-        </mxCell>
+        <UserObject label="" link="data:page/id,ctbqODOHqsKRtOPAJocu" id="UgSbTgptDc2yuKRyGdcN-1">
+          <mxCell style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=20;fontColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
+            <mxGeometry x="-960" y="-140" width="1930" height="1630" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="UgSbTgptDc2yuKRyGdcN-2" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=73;fontColor=none;fillColor=#B3B3B3;direction=south;" vertex="1" parent="UgSbTgptDc2yuKRyGdcN-1">
           <mxGeometry y="240" width="410" height="1390" as="geometry" />
         </mxCell>
@@ -456,7 +470,7 @@
         <mxCell id="UgSbTgptDc2yuKRyGdcN-5" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=20;fontColor=none;fillColor=#B3B3B3;" vertex="1" parent="UgSbTgptDc2yuKRyGdcN-1">
           <mxGeometry y="100" width="1930" height="220" as="geometry" />
         </mxCell>
-        <UserObject label="" id="UgSbTgptDc2yuKRyGdcN-6">
+        <UserObject label="" link="data:page/id,ijmsWEHlUIuAwE15p_Iw" id="UgSbTgptDc2yuKRyGdcN-6">
           <mxCell style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/spring-30/30/Flower-1-128.png;fontFamily=Helvetica;fontSize=73;fontColor=none;fillColor=#B3B3B3;" vertex="1" parent="UgSbTgptDc2yuKRyGdcN-1">
             <mxGeometry x="1790" y="183" width="128" height="128" as="geometry" />
           </mxCell>
