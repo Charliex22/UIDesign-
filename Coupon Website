@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T00:08:11.726Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="4iLfN2hs78Ik9wtpamQ8" version="20.0.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-06-14T00:11:24.293Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="tVeRYdgLUMyNT_OibefL" version="20.0.1" type="github" pages="12">
   <diagram id="sz0L7RW_hsWKJ5pmo5H-" name="Home Page">
     <mxGraphModel dx="1306" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -972,7 +972,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="0ccmyFrTt-AovRpJ-nki" name="Page-12">
+  <diagram id="0ccmyFrTt-AovRpJ-nki" name="Business login">
     <mxGraphModel dx="901" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1211,6 +1211,9 @@
         <mxCell id="cSjBd-xHN9y11ldbiKYA-1" value="Add&amp;nbsp; more Deals" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="OK_yOi4BzlQ9hslKBddw-1">
           <mxGeometry x="600" y="225" width="200" height="86.25" as="geometry" />
         </mxCell>
+        <mxCell id="e1T3elNucvv27w0pTaV--1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/unknown-128.png;fontSize=20;" vertex="1" parent="OK_yOi4BzlQ9hslKBddw-1">
+          <mxGeometry x="790" y="157" width="38" height="38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1284,6 +1287,9 @@
             <mxPoint x="550" y="720" as="sourcePoint" />
             <mxPoint x="600" y="670" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rIPpbF1nqBztQruun3D2-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/user-pictures/100/unknown-128.png;fontSize=20;" vertex="1" parent="Dg3yy_a85s5QtEdzFMdC-1">
+          <mxGeometry x="797.5" y="157" width="38" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
