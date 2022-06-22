@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T19:59:08.384Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="-I6ww381cbK39WW25B0c" version="20.0.1" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2022-06-22T20:40:17.860Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="5sFYhDvWp5n8fFI0-qL8" version="20.0.1" type="github" pages="21">
   <diagram id="sz0L7RW_hsWKJ5pmo5H-" name="Home Page">
     <mxGraphModel dx="1212" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2045,7 +2045,7 @@
         <mxCell id="1" parent="0" />
         <UserObject label="" id="tFBjEty8g4LAMtAzRTby-1">
           <mxCell style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
-            <mxGeometry x="40" y="130" width="860" height="1080" as="geometry" />
+            <mxGeometry x="50" y="130" width="860" height="1080" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="tFBjEty8g4LAMtAzRTby-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
@@ -2101,6 +2101,72 @@
           <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
             <mxPoint x="-17" y="-2.5" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-76" value="&lt;b&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;u style=&quot;font-size: 25px;&quot;&gt;Contact for Potential Partnership&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="140" y="257.5" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-85" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;Contact Partners for Business&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="150" y="660" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-88" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="140" y="740" width="520" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-89" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="150" y="760" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-92" value="&lt;b&gt;Phone:&lt;/b&gt; 203-000-000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="260" y="790" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-93" value="&lt;b&gt;Email:&lt;/b&gt; Email@gmail.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="260" y="825" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="140" y="900" width="520" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-95" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="150" y="920" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-96" value="&lt;b&gt;Phone:&lt;/b&gt; 203-000-000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="260" y="955" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-97" value="&lt;b&gt;Email:&lt;/b&gt; Email@gmail.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="260" y="990" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-98" value="&lt;b&gt;Business Name:&lt;/b&gt; Paramount Pizza" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="260" y="760" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-99" value="&lt;b&gt;Business Name: &lt;/b&gt;Starbucks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="260" y="920" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="130" y="318.75" width="520" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-101" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="140" y="338.75" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-102" value="&lt;b&gt;Phone:&lt;/b&gt; 203-000-000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="250" y="368.75" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-103" value="&lt;b&gt;Email:&lt;/b&gt; Email@gmail.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="250" y="403.75" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-104" value="&lt;b&gt;Business Name:&lt;/b&gt; Paramount Pizza" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="250" y="338.75" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-105" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="130" y="470" width="520" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-106" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="140" y="490" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-107" value="&lt;b&gt;Phone:&lt;/b&gt; 203-000-000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="250" y="520" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-108" value="&lt;b&gt;Email:&lt;/b&gt; Email@gmail.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="250" y="555" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tFBjEty8g4LAMtAzRTby-109" value="&lt;b&gt;Business Name:&lt;/b&gt; Paramount Pizza" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="tFBjEty8g4LAMtAzRTby-1">
+          <mxGeometry x="250" y="490" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
