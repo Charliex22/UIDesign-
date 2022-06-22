@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T22:18:49.411Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="3fRrrm02r82B5cHwIoMK" version="20.0.1" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2022-06-22T22:30:14.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="u3Qh1p7Igq2nch7zXu03" version="20.0.1" type="github" pages="22">
   <diagram id="sz0L7RW_hsWKJ5pmo5H-" name="Home Page">
     <mxGraphModel dx="1475" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1031,7 +1031,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I0dsIk0wv_Fx5Mqsjy6z" name="Cart for Product ">
-    <mxGraphModel dx="1843" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="851" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1603,7 +1603,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Congratulations " id="GdjD3MB0jIiNXlXbkb94">
-    <mxGraphModel dx="2233" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1956" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="CVK1Tp_t5BclCjuyepUK-0" />
         <mxCell id="CVK1Tp_t5BclCjuyepUK-1" parent="CVK1Tp_t5BclCjuyepUK-0" />
@@ -1652,11 +1652,49 @@
         <mxCell id="5jwZXWAJs7iJ2ojir12u-0" value="XC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=25;fontColor=#FFFFFF;" vertex="1" parent="CVK1Tp_t5BclCjuyepUK-2">
           <mxGeometry x="175" y="273.75" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5jwZXWAJs7iJ2ojir12u-3" value="&lt;b&gt;Congratulations you’re Package Its on the way!!&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=25;fontColor=#000000;" vertex="1" parent="CVK1Tp_t5BclCjuyepUK-2">
+          <mxGeometry x="130" y="258.75" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5jwZXWAJs7iJ2ojir12u-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=25;fontColor=#000000;" vertex="1" parent="CVK1Tp_t5BclCjuyepUK-2">
+          <mxGeometry x="135" y="335" width="465" height="465" as="geometry" />
+        </mxCell>
+        <mxCell id="3KL1K2moulOkGDDk65Sx-0" value="Customer Information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=25;fontColor=#000000;" vertex="1" parent="CVK1Tp_t5BclCjuyepUK-2">
+          <mxGeometry x="145" y="355" width="255" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AflslhUYnLmgDy8NRZDf-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=35;" vertex="1" parent="CVK1Tp_t5BclCjuyepUK-2">
+          <mxGeometry x="685" y="335" width="170" height="260" as="geometry" />
+        </mxCell>
+        <UserObject label="" id="AflslhUYnLmgDy8NRZDf-1">
+          <mxCell style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#D45B07;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.container_registry_image;" vertex="1" parent="CVK1Tp_t5BclCjuyepUK-2">
+            <mxGeometry x="724.5833333333333" y="343.91999999999996" width="71.07583333333334" height="71.07583333333334" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="AflslhUYnLmgDy8NRZDf-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Product Name&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#000000;" vertex="1" parent="CVK1Tp_t5BclCjuyepUK-2">
+          <mxGeometry x="710.56" y="415" width="99.13" height="19.73" as="geometry" />
+        </mxCell>
+        <mxCell id="AflslhUYnLmgDy8NRZDf-3" value="&lt;font style=&quot;line-height: 1.5; font-size: 15px;&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 0);&quot;&gt;Price: &lt;/b&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;$$$&lt;/span&gt;&lt;br&gt;In Stock&lt;br&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#000000&quot;&gt;Free Shipping&lt;/font&gt;&lt;br&gt;&lt;b style=&quot;color: rgb(0, 0, 0);&quot;&gt;Color: Black&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#CCE5FF;" vertex="1" parent="CVK1Tp_t5BclCjuyepUK-2">
+          <mxGeometry x="695" y="455" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="AflslhUYnLmgDy8NRZDf-4" value="&lt;font color=&quot;#b3b3b3&quot;&gt;Contact Information&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;" vertex="1" parent="CVK1Tp_t5BclCjuyepUK-2">
+          <mxGeometry x="155" y="420" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CmPcQWocfZ5Sl4e5U-Lk-0" value="Shipping Merthod" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#B3B3B3;" vertex="1" parent="CVK1Tp_t5BclCjuyepUK-2">
+          <mxGeometry x="155" y="560" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CmPcQWocfZ5Sl4e5U-Lk-1" value="Payment Method&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Shipping%20Merthod%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BlabelBackgroundColor%3Dnone%3BfontFamily%3DHelvetica%3BfontSize%3D15%3BfontColor%3D%23B3B3B3%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22150%22%20y%3D%22675%22%20width%3D%22125%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Shipping%20Merthod%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BlabelBackgroundColor%3Dnone%3BfontFamily%3DHelvetica%3BfontSize%3D15%3BfontColor%3D%23B3B3B3%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22150%22%20y%3D%22675%22%20width%3D%22125%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#B3B3B3;" vertex="1" parent="CVK1Tp_t5BclCjuyepUK-2">
+          <mxGeometry x="155" y="655" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CmPcQWocfZ5Sl4e5U-Lk-2" value="Shipping Address" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#B3B3B3;" vertex="1" parent="CVK1Tp_t5BclCjuyepUK-2">
+          <mxGeometry x="155" y="735" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CmPcQWocfZ5Sl4e5U-Lk-3" value="Shipping Address" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#B3B3B3;" vertex="1" parent="CVK1Tp_t5BclCjuyepUK-2">
+          <mxGeometry x="415" y="420" width="125" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="kZnzZbntb5vjsUGHdmYC" name="Information">
-    <mxGraphModel dx="1212" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1746,7 +1784,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0ccmyFrTt-AovRpJ-nki" name="Business login">
-    <mxGraphModel dx="1212" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1817,7 +1855,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Sign up For Business" id="PAEVdT7Sw-Mk4rXJJbes">
-    <mxGraphModel dx="1212" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="NTDVaJefW7ZWrPoFlIUl-0" />
         <mxCell id="NTDVaJefW7ZWrPoFlIUl-1" parent="NTDVaJefW7ZWrPoFlIUl-0" />
@@ -1920,7 +1958,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3K_KITnuvc2y0OAWSZIM" name="Business ">
-    <mxGraphModel dx="1212" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2099,7 +2137,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pgyjP0LZvS2Dpqjly70T" name="Make more Deals ">
-    <mxGraphModel dx="1212" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2232,7 +2270,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Fhy9Baot3ABZsTvX9YzD" name="Contact">
-    <mxGraphModel dx="1212" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2331,7 +2369,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MOkF7OLWUFcU_wUfa3N2" name="Infromation for Business">
-    <mxGraphModel dx="1212" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2388,7 +2426,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7iLPJsDMuHWSJec0tyLR" name="Data ">
-    <mxGraphModel dx="1212" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2478,7 +2516,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JADrSU_Zjgun5Gc_mw0j" name="Business Account ">
-    <mxGraphModel dx="2062" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1956" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
