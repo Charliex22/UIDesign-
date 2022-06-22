@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T20:42:15.814Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="j4d3O7-_6wL0KGFTUyGQ" version="20.0.1" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2022-06-22T20:43:42.888Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="we4OAO2NFWa_sioIiHom" version="20.0.1" type="github" pages="21">
   <diagram id="sz0L7RW_hsWKJ5pmo5H-" name="Home Page">
     <mxGraphModel dx="1212" dy="1175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2251,6 +2251,21 @@
         </mxCell>
         <mxCell id="17MF89X7A9jkjTceRtt4-9" value="&lt;b&gt;Phone: &lt;/b&gt;203-000-000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#000000;" parent="TtR2X2ZlDqanS2EsyhQ9-1" vertex="1">
           <mxGeometry x="270" y="395" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jSno8-6p0XColozPGnxo-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="TtR2X2ZlDqanS2EsyhQ9-1">
+          <mxGeometry x="130" y="520" width="610" height="212.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jSno8-6p0XColozPGnxo-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;fontSize=10;fontColor=#CCE5FF;" vertex="1" parent="TtR2X2ZlDqanS2EsyhQ9-1">
+          <mxGeometry x="150" y="542.5" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jSno8-6p0XColozPGnxo-3" value="&lt;b&gt;Name:&lt;/b&gt; Emily Hernandez" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#000000;" vertex="1" parent="TtR2X2ZlDqanS2EsyhQ9-1">
+          <mxGeometry x="270" y="542.5" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jSno8-6p0XColozPGnxo-4" value="&lt;b&gt;Email: &lt;/b&gt;Gmail@gmail.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#000000;" vertex="1" parent="TtR2X2ZlDqanS2EsyhQ9-1">
+          <mxGeometry x="270" y="588.75" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jSno8-6p0XColozPGnxo-5" value="&lt;b&gt;Phone: &lt;/b&gt;203-000-000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontColor=#000000;" vertex="1" parent="TtR2X2ZlDqanS2EsyhQ9-1">
+          <mxGeometry x="270" y="627.5" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
